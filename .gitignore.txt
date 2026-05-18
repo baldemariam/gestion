@@ -1,0 +1,29 @@
+# WinDev
+*.cpl
+*.wou
+*.err
+*.bak
+*.tmp
+*.~*
+*.lock
+
+# Compilation
+Exe/
+Objets/
+Programmes/
+
+# Cache
+*.fic
+*.ndx
+*.mmo
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnement
+env/
+venv/
